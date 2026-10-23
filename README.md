@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Hearts-of-Iron-IV-Save-Editor` · Updated: 2026-10-07
+`Hearts-of-Iron-IV-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `hearts-of-iron-4` `save-editor` `grand-strategy` `ww2`
